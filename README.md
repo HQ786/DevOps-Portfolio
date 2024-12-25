@@ -55,6 +55,13 @@ Here are some of the key skills I bring to the table as a **DevOps engineer**:
 
 For more details, check out the **`project-1-shell-scripting`** folder in this repository.
 
+## Project 2: Two-Tier Flask App
+
+In this project, I developed a Two-Tier Flask application. The app consists of two main components: a Flask backend API and a simple frontend. The backend handles requests and serves data, while the frontend interacts with the backend to display information. This project demonstrates my ability to build web applications using Flask and to work with two-tier architectures.
+
+For more details, check out the [project-2-two-tier-flask-app](./project-2-two-tier-flask-app) folder in this repository.
+
+
 ## **Contact**
 
 If you'd like to connect or have any questions, feel free to reach out:
