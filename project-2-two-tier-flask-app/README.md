@@ -6,22 +6,6 @@ This project involves the containerization of a two-tier application, such as a 
 
 ---
 
-## Table of Contents
-
-- [Tools Required](#tools-required)
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Step-by-Step Guide](#step-by-step-guide)
-  - [1. Setup Docker and Docker Compose](#1-setup-docker-and-docker-compose)
-  - [2. Create the Application Code](#2-create-the-application-code)
-  - [3. Dockerize the Application](#3-dockerize-the-application)
-  - [4. Docker Compose Setup](#4-docker-compose-setup)
-  - [5. Scanning Docker Images with Docker Scout](#5-scanning-docker-images-with-docker-scout)
-- [Conclusion](#conclusion)
-- [Contact Information](#contact-information)
-
----
-
 ## Tools Required
 
 - **Docker**: For creating and managing containers. You can install Docker from [here](https://www.docker.com/get-started).
