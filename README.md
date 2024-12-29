@@ -61,6 +61,18 @@ In this project, I developed a Two-Tier Flask application. The app consists of t
 
 For more details, check out the [project-2-two-tier-flask-app](./project-2-two-tier-flask-app) folder in this repository.
 
+### Project 3: DevSecOps Jenkins CI/CD Pipeline for Node.js Application
+
+In this project, I set up a Jenkins CI/CD pipeline for a **Node.js application** with a focus on **DevSecOps** practices. The pipeline includes stages for:
+- **Code quality analysis** using **SonarQube**.
+- **Security testing** using **OWASP tools**.
+- **Docker image vulnerability scanning** with **Trivy**.
+- **Automated deployment** with Jenkins.
+
+This project demonstrates how to integrate security, code quality, and continuous integration/continuous deployment into the software development lifecycle, ensuring robust and secure application development practices.
+
+For more details, check out the `project-3-devsecops-pipeline` folder in this repository.
+
 
 ## **Contact**
 
