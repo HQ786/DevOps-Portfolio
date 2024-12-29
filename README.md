@@ -124,6 +124,11 @@ This project involves developing a ToDo application using a serverless architect
 
 ### For more details, check out the `project-7-serverless-deployment-todo-app` folder in this repository.
 
+## Project 8: Jenkins Integration with Kubernetes for CI/CD Pipeline
+In this project, I demonstrated how to integrate Jenkins with Kubernetes to build an automated CI/CD pipeline for deploying applications to Kubernetes clusters. The project involved setting up Jenkins, creating a Jenkins pipeline, integrating Kubernetes for dynamic scaling, and using Helm to manage Kubernetes deployments.
+
+For more details, check out the `project-8-jenkins-integration-with-kubernetes` folder in this repository.
+
 
 
 ## **Contact**
