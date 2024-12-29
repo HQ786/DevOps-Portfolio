@@ -1,5 +1,4 @@
-title: DevOps Portfolio
-description: "A collection of my DevOps projects and experience."
-theme: jekyll-theme-cayman # Replace with the theme of your choice
-url: "https://HQ786.github.io/devops-portfolio"  # Your GitHub Pages URL
-
+title: "DevOps Portfolio"
+description: "A collection of my DevOps projects"
+theme: jekyll-theme-minima
+url: "https://hq786.github.io/devops-portfolio/"
