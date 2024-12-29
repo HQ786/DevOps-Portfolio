@@ -79,6 +79,20 @@ In this project, I deployed a scalable three-tier application consisting of a **
 
 For more details, check out the `project-4-aws-eks-three-tier-app` folder in this repository.
 
+### Project 5: Creation of a Production-Ready Infrastructure using Terraform and Ansible
+
+In this project, I focused on creating a **scalable, production-ready infrastructure** on **AWS** using **Terraform** for infrastructure provisioning and **Ansible** for configuration management. The project involved setting up a **multi-tier architecture** with different components such as **EC2 instances**, **RDS databases**, and **S3 storage**. 
+
+The key tasks included:
+- Using **Terraform** to provision and manage the infrastructure components on AWS.
+- Setting up **remote backends** for Terraform state management to ensure reliable and consistent deployments.
+- Automating the configuration of the infrastructure with **Ansible**, ensuring the environment is ready for application deployment.
+- Implementing a multi-tier architecture (web, application, and database tiers) to ensure scalability and high availability.
+
+This project highlights my ability to work with **cloud infrastructure**, **infrastructure as code**, and **configuration management tools**, demonstrating practical skills needed to deploy robust and scalable applications in production environments.
+
+For more details, check out the `project-5-terraform-ansible-aws-infrastructure` folder in this repository.
+
 ## **Contact**
 
 If you'd like to connect or have any questions, feel free to reach out:
