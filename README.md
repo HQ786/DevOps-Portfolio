@@ -114,6 +114,18 @@ This project will give you hands-on experience in configuring monitoring and vis
 ### For more details, check out the `project-6-monitoring-visualization-grafana-prometheus` folder in this repository.
 
 
+## Project 7: Serverless Deployment of a ToDo Application
+
+### Overview/Description
+This project involves developing a ToDo application using a serverless architecture. The backend is powered by AWS Lambda, the API layer is exposed using AWS API Gateway, and AWS RDS is used for storing application data. The Serverless Framework simplifies deployment and management.
+
+### Tools Required
+- AWS Lambda, AWS API Gateway, NodeJS, AWS RDS, Serverless Framework.
+
+### For more details, check out the `project-7-serverless-deployment-todo-app` folder in this repository.
+
+
+
 ## **Contact**
 
 If you'd like to connect or have any questions, feel free to reach out:
