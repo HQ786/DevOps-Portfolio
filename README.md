@@ -129,7 +129,35 @@ In this project, I demonstrated how to integrate Jenkins with Kubernetes to buil
 
 For more details, check out the `project-8-jenkins-integration-with-kubernetes` folder in this repository.
 
+## Project 9: Multi-Container Application
 
+### Overview/Description
+This project demonstrates the development of a multi-container application using Docker. The application is composed of the following services:
+
+- **Nginx**: Acts as a reverse proxy and load balancer.
+- **React**: The front-end of the application.
+- **Express**: The back-end server that provides APIs.
+- **Redis**: A caching server for fast, in-memory data storage.
+- **PostgreSQL**: A relational database for storing data.
+- **Worker Service**: A service that performs calculations and interacts with the Redis and PostgreSQL databases.
+
+### Development Flow:
+1. **Browser** connects to the **Nginx** server.
+2. **Nginx** routes the request to the **React** server for front-end content.
+3. **Nginx** also routes API requests to the **Express** server.
+4. **Express** communicates with **Redis DB** for caching and **PostgreSQL** for data storage.
+5. The **Worker Service** handles calculations and interacts with the databases.
+
+### Running Containers Locally:
+To run the multi-container application locally using Docker Compose, modify the `$(pwd)` in the `docker-compose.yml` file to match your current working directory.
+
+#### Commands:
+1. Ensure Docker is running on your machine.
+2. Navigate to the project directory where `docker-compose.yml` is located.
+3. Run the following command to start the containers:
+   ```bash
+   docker-compose up
+For more details, check out the `project-9-multi-container-application` folder in this repository.
 
 ## **Contact**
 
