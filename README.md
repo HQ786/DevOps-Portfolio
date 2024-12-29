@@ -159,6 +159,14 @@ To run the multi-container application locally using Docker Compose, modify the 
    docker-compose up
 For more details, check out the `project-9-multi-container-application` folder in this repository.
 
+
+## Project 10: DevOps Project - AWS EKS, CI/CD, Docker, Kubernetes, Argo CD, Git, Terraform, Prometheus, Grafana
+
+In this project, I set up a fully automated DevOps infrastructure using AWS EKS, Terraform, Docker, Kubernetes, GitHub Actions, and Argo CD. The project demonstrates how to provision an EKS cluster, implement a CI/CD pipeline, monitor application performance with Prometheus and Grafana, and secure the Kubernetes cluster with best practices.
+
+For more details, check out the `project-10-devops-aws-eks-cicd` folder in this repository.
+
+
 ## **Contact**
 
 If you'd like to connect or have any questions, feel free to reach out:
