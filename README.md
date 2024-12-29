@@ -93,6 +93,27 @@ This project highlights my ability to work with **cloud infrastructure**, **infr
 
 For more details, check out the `project-5-terraform-ansible-aws-infrastructure` folder in this repository.
 
+
+## Project 6: Monitoring and Visualization for a Kubernetes-Based Application on Grafana with Metrics on Prometheus
+
+### Overview/Description
+This project involves setting up a robust monitoring solution for a Kubernetes-based application using **Prometheus** and **Grafana**.
+
+- **Prometheus**: Used for collecting metrics and monitoring the health of the Kubernetes cluster and its resources.
+- **Grafana**: Visualizes the metrics collected by Prometheus through interactive dashboards.
+- **cAdvisor**: Enhances monitoring by providing detailed container metrics.
+
+This project will give you hands-on experience in configuring monitoring and visualization for Kubernetes-based applications, ensuring the performance and reliability of your application.
+
+### Tools Required
+- **Prometheus**: For monitoring and alerting toolkit.
+- **Grafana**: For analytics and interactive visualization.
+- **Kubernetes**: For container orchestration.
+- **cAdvisor**: For container resource usage and performance analysis.
+
+### For more details, check out the `project-6-monitoring-visualization-grafana-prometheus` folder in this repository.
+
+
 ## **Contact**
 
 If you'd like to connect or have any questions, feel free to reach out:
