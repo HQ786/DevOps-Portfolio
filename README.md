@@ -73,6 +73,11 @@ This project demonstrates how to integrate security, code quality, and continuou
 
 For more details, check out the `project-3-devsecops-pipeline` folder in this repository.
 
+## Project 4: Deployment of a Three-Tier Application on AWS EKS
+
+In this project, I deployed a scalable three-tier application consisting of a **ReactJS front-end**, **NodeJS back-end**, and a **MongoDB database** on **AWS Elastic Kubernetes Service (EKS)**. The project utilizes **Kubernetes** for container orchestration, **AWS ALB (Application Load Balancer)** for traffic distribution, and **MongoDB** as the database tier. This deployment demonstrates the ability to build and manage cloud-native applications, providing hands-on experience in deploying highly available and scalable applications using Kubernetes on AWS.
+
+For more details, check out the `project-4-aws-eks-three-tier-app` folder in this repository.
 
 ## **Contact**
 
